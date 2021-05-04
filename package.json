@@ -43,7 +43,7 @@
     "svg-captcha": "^1.4.0",
     "svg-png-converter": "0.0.9",
     "typescript": "^4.2.3",
-    "utf-8-validate": "^5.0.4",
+    "utf-8-validate": "^5.0.5",
     "zlib-sync": "^0.1.7"
   },
   "engines": {
